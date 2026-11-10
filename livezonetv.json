@@ -598,7 +598,7 @@
         {
           "name": "Main Stream",
           "url": "https://techandeat.online/sliv/stream.m3u8?id=1000009246",
-          "headers": "Referer=https://techandeat.online"
+          "headers": "https://techandeat.online"
         }
       ],
       "autoPlayBackup": true
@@ -611,7 +611,7 @@
         {
           "name": "Main Stream",
           "url": "https://techandeat.online/sliv/stream.m3u8?id=1000009249",
-          "headers": "Referer=https://techandeat.online"
+          "headers": "https://techandeat.online"
         }
       ],
       "autoPlayBackup": true
@@ -624,7 +624,7 @@
         {
           "name": "Main Stream",
           "url": "https://techandeat.online/sliv/stream.m3u8?id=1000009247",
-          "headers": "Referer=https://techandeat.online"
+          "headers": "https://techandeat.online"
         }
       ],
       "autoPlayBackup": true
