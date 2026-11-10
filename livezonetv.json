@@ -428,11 +428,11 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "https://techandeat.online/sliv/stream.m3u8?id=1000009255",
-          "referer": "https://techandeat.online"
+          "url": "https://techandeat.online/sliv/stream.m3u8?id=1000009255"
         }
       ],
-      "autoPlayBackup": true
+      "autoPlayBackup": true,
+      "referer": "https://techandeat.online"
     },
     {
       "name": "Jalsha Movies SD",
@@ -597,11 +597,11 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "https://techandeat.online/sliv/stream.m3u8?id=1000009246",
-          "referer": "https://techandeat.online"
+          "url": "https://techandeat.online/sliv/stream.m3u8?id=1000009246"
         }
       ],
-      "autoPlayBackup": true
+      "autoPlayBackup": true,
+      "referer": "https://techandeat.online"
     },
     {
       "name": "Sony Max",
@@ -625,7 +625,6 @@
         {
           "name": "Main Stream",
           "url": "https://techandeat.online/sliv/stream.m3u8?id=1000009247"
-         
         }
       ],
       "autoPlayBackup": true
@@ -649,11 +648,11 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "https://techandeat.online/sliv/stream.m3u8?id=1000044878",
-          "referer": "https://techandeat.online"
+          "url": "https://techandeat.online/sliv/stream.m3u8?id=1000044878"
         }
       ],
-      "autoPlayBackup": true
+      "autoPlayBackup": true,
+      "referer": "https://techandeat.online"
     },
     {
       "name": "Sony Sab HD",
@@ -662,11 +661,11 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "https://techandeat.online/sliv/stream.m3u8?id=1000009248",
-          "referer": "https://techandeat.online"
+          "url": "https://techandeat.online/sliv/stream.m3u8?id=1000009248"
         }
       ],
-      "autoPlayBackup": true
+      "autoPlayBackup": true,
+      "referer": "https://techandeat.online"
     },
     {
       "name": "Sony Pal",
@@ -675,11 +674,11 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "https://techandeat.online/sliv/stream.m3u8?id=1000009273",
-          "referer": "https://techandeat.online"
+          "url": "https://techandeat.online/sliv/stream.m3u8?id=1000009273"
         }
       ],
-      "autoPlayBackup": true
+      "autoPlayBackup": true,
+      "referer": "https://techandeat.online"
     },
     {
       "name": "Sony Wah",
@@ -688,11 +687,11 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "https://techandeat.online/sliv/stream.m3u8?id=1000009253",
-          "referer": "https://techandeat.online"
+          "url": "https://techandeat.online/sliv/stream.m3u8?id=1000009253"
         }
       ],
-      "autoPlayBackup": true
+      "autoPlayBackup": true,
+      "referer": "https://techandeat.online"
     },
     {
       "name": "Hum TV",
@@ -773,11 +772,11 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "https://drk6xq0vhn.gpcdn.net/live/sony_yay_abr/index.m3u8",
-          "headers": "Referer=https://techandeat.online"
+          "url": "https://drk6xq0vhn.gpcdn.net/live/sony_yay_abr/index.m3u8"
         }
       ],
-      "autoPlayBackup": true
+      "autoPlayBackup": true,
+      "referer": "https://techandeat.online"
     },
     {
       "name": "Animal Planet HD",
@@ -930,11 +929,11 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "https://techandeat.online/sliv/stream.m3u8?id=1000009276",
-          "headers": "Referer=https://techandeat.online"
+          "url": "https://techandeat.online/sliv/stream.m3u8?id=1000009276"
         }
       ],
-      "autoPlayBackup": true
+      "autoPlayBackup": true,
+      "referer": "https://techandeat.online"
     },
     {
       "name": "Sony Ten 2",
@@ -943,11 +942,11 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "https://techandeat.online/sliv/stream.m3u8?id=1000009277",
-          "headers": "Referer=https://techandeat.online"
+          "url": "https://techandeat.online/sliv/stream.m3u8?id=1000009277"
         }
       ],
-      "autoPlayBackup": true
+      "autoPlayBackup": true,
+      "referer": "https://techandeat.online"
     },
     {
       "name": "Sony Ten 3",
@@ -956,11 +955,11 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "https://techandeat.online/sliv/stream.m3u8?id=1000009278",
-          "headers": "Referer=https://techandeat.online"
+          "url": "https://techandeat.online/sliv/stream.m3u8?id=1000009278"
         }
       ],
-      "autoPlayBackup": true
+      "autoPlayBackup": true,
+      "referer": "https://techandeat.online"
     },
     {
       "name": "Sony Ten 5",
@@ -969,11 +968,11 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "https://techandeat.online/sliv/stream.m3u8?id=1000009275",
-          "headers": "Referer=https://techandeat.online"
+          "url": "https://techandeat.online/sliv/stream.m3u8?id=1000009275"
         }
       ],
-      "autoPlayBackup": true
+      "autoPlayBackup": true,
+      "referer": "https://techandeat.online"
     }
   ]
 }
